@@ -1,0 +1,15 @@
+{
+  "allowedDirectories": ["D:\\localbridge-sandbox"],
+  "maxRequestBodyBytes": 4194304,
+  "filesystemLimits": {
+    "maxFileBytes": 8388608,
+    "maxReadBytesPerCall": 16777216,
+    "maxToolResponseBytes": 8388608,
+    "maxFilesPerCall": 100,
+    "maxEntriesVisited": 10000,
+    "maxTraversalDepth": 32,
+    "maxOperationMs": 30000,
+    "maxConcurrentTools": 4,
+    "maxConcurrentFsOps": 8
+  }
+}
